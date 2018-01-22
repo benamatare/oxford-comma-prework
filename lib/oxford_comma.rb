@@ -1,6 +1,6 @@
 
-  def oxford_comma(array)
-array.each do |index|
-  index+','
-   return array.join(' ')
-  end
+def oxford_comma array
+  if array.size == 1
+  return arra.join('')
+end
+end
